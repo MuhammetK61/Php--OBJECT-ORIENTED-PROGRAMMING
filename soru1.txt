@@ -1,0 +1,7 @@
+1- Pascal Case, Camel Case ve Snake Case arasındaki fark şu şekildedir. 
+Pascal casede bir değişken tanımlarken değişken  adındaki tüm 
+kelimelerin ilk harfi büyük olmalıdır.Camel casede ise pascal caseden 
+farklı olarak değişken adı olan ilk kelimenin baş harfi küçük devam eden diğer 
+kelimelerin baş harfleri ise büyük olmalıdır. Snake Case baktığımızda ise 
+değişkenlerde her kelimenin baş harfinin küçük olmasının yanında her boşluk yerine
+bir adet alt çizgi(_) kullanılması durumudur.
